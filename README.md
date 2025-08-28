@@ -17,6 +17,7 @@ O modelo foi construído com base em boas práticas de modelagem de dados, utili
 
 📁 Conteúdo do Repositório
 - README.md: Descrição do projeto e contexto.
-- modelo_conceitual.pdf: Diagrama ER ilustrando o esquema.
+- modelo_conceitual.png: Diagrama ER ilustrando o esquema
+- https://github.com/marcelomoura85/Desafio-Dio-/blob/main/E-commerce.png
 
 
